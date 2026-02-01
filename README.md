@@ -13,15 +13,20 @@
 ### 📊 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/NXl5Rw3hgK?theme=dark&font=Karma&ext=badge)](https://leetcode.com/u/NXl5Rw3hgK/)
 
-
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshatsrivastava26&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatsrivastava26&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshatsrivastava26&show_icons=true&theme=radical&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatsrivastava26&layout=compact&theme=radical&cache_seconds=86400" height="160"/>
 </p>
 
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Akshatsrivastava26/Akshatsrivastava26/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
@@ -29,12 +34,9 @@
 - 🧑🏻‍💻 GitHub Portfolio :- **https://akshatsrivastava26.github.io**
 - 💻 Full Stack Developer & **API Tester**  
 - 🔐 Interested in **Cybersecurity & Web Security**  
-- 🛠️ Tech Stack → **Java, JavaScript, React, Node.js, Express, MongoDB, My SQL**  
+- 🛠️ Tech Stack → **Java, JavaScript, React, Node.js, Express, MongoDB, MySQL**  
 - 🌱 Currently learning **Advanced Backend, Security & Scalable Systems**  
 - 🎯 Goal → **Skilled Software Engineer & Security-Aware Developer**
-
-
-
 
 ---
 
@@ -44,22 +46,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshatsrivastava26)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/NXl5Rw3hgK/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-kumar-srivastava-5a1a59251/)
- 
 
 ---
 
 ### 🛠️ Languages & Tools  
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github,vscode,postman&perline=7" />
 </p>
 
-
-
 ---
 
-
-
-  <p align="center" class="quote">“I don’t follow the universe — I reprogram it.” </p>
- <p align="center" class="copyright">© 2026 Akshat Kumar Sr. All rights reserved. </p>
-<p align="center" class="symbol">⚚Ⓐ⚚ </p
+<p align="center"><i>“I don’t follow the universe — I reprogram it.”</i></p>
+<p align="center">© 2026 Akshat Kumar Srivastava. All rights reserved.</p>
+<p align="center">⚚Ⓐ⚚</p>
