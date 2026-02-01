@@ -1,16 +1,65 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Akshat Kumar Srivastava</h1>
 
-<!--
-**Akshatsrivastava26/Akshatsrivastava26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Typing -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F700&center=true&vCenter=true&width=650&lines=💻+MERN+Stack+Developer;🧪+API+Tester;🔐+Cybersecurity+Enthusiast;🌱+Continuous+Learner;🚀+Building+Scalable+Apps" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NXl5Rw3hgK?theme=dark&font=Karma&ext=badge)](https://leetcode.com/u/NXl5Rw3hgK/)
+
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshatsrivastava26&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatsrivastava26&layout=compact&theme=radical" height="160"/>
+</p>
+
+
+---
+
+### 🚀 About Me  
+- 🧑🏻‍💻 GitHub Portfolio :- **https://akshatsrivastava26.github.io**
+- 💻 Full Stack Developer & **API Tester**  
+- 🔐 Interested in **Cybersecurity & Web Security**  
+- 🛠️ Tech Stack → **Java, JavaScript, React, Node.js, Express, MongoDB, My SQL**  
+- 🌱 Currently learning **Advanced Backend, Security & Scalable Systems**  
+- 🎯 Goal → **Skilled Software Engineer & Security-Aware Developer**
+
+
+
+
+---
+
+### 🌐 Connect With Me  
+
+[![Website](https://img.shields.io/badge/🌍%20Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://akshatsrivastava26.github.io/My-Portfolio-Site-master/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshatsrivastava26)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/NXl5Rw3hgK/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-kumar-srivastava-5a1a59251/)
+ 
+
+---
+
+### 🛠️ Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github,vscode,postman&perline=7" />
+</p>
+
+
+
+---
+
+
+
+  <p align="center" class="quote">“I don’t follow the universe — I reprogram it.” </p>
+ <p align="center" class="copyright">© 2026 Akshat Kumar Sr. All rights reserved. </p>
+<p align="center" class="symbol">⚚Ⓐ⚚ </p
