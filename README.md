@@ -15,9 +15,10 @@
 
 ---
 
-### 🔥 GitHub Streak
+### 📊 Profile Summary
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Akshatsrivastava26&theme=radical)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshatsrivastava26&theme=radical)
+
 
 
 ---
