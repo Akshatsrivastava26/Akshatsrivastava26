@@ -15,11 +15,10 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Akshatsrivastava26&show_icons=true&theme=radical&v=2"/>
+### 🔥 GitHub Streak
 
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Akshatsrivastava26&theme=radical)
+
 
 ---
 
