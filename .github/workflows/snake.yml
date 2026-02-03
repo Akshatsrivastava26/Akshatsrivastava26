@@ -9,11 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3   # 🔥 MISSING THA
+
       - uses: Platane/snk@v3
         with:
           github_user_name: Akshatsrivastava26
           outputs: |
             dist/github-contribution-grid-snake.svg
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
